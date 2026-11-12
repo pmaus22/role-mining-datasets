@@ -1,0 +1,1 @@
+The datasets are structured as user-permission (UP) tables. Each row represents a user-permission assignment, with the first column identifying the user and the second column identifying the assigned permission.
